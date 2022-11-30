@@ -4,4 +4,4 @@ local args = {
     [1] = "caec9531-355b-4025-bd96-5c68af1f7d60"
 }
 
-game:GetService("ReplicatedStorage").API.sQAEGeuogiLMteQZHdEWXXl:FireServer(unpack(args))
+game:GetService("ReplicatedStorage").API.sQAEGeuogzMVYgQwhTcxjhgJbccq:FireServer(unpack(args))
